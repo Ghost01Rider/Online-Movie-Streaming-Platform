@@ -3,8 +3,8 @@
 
 
 **credentials: username: demoUser | password: demoUser**
+https://streama.demo-version.net/
 
-https://github.com/Ghost01Rider/Online-Movie-Streaming-Platform.git
 
 # Getting Started
 - [Installation and first-time setup](https://docs.streama-project.com/getting-started/installing/)
